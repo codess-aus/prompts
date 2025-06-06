@@ -1,0 +1,2 @@
+A pixel art scene of a girl with vibrant magenta hair and her AI sidekick building a dream app in the clouds. The girl is wearing a black GitHub hoodie, a pink skirt, and sparkly pink shoes. She is surrounded by floating code blocks, glowing UI elements, and whimsical cloud platforms. Her AI sidekick is a cute, futuristic robot with expressive eyes, helping her connect colorful wires and icons. The sky is bright blue with pixelated clouds, and the overall vibe is imaginative, empowering.
+
