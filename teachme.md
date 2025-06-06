@@ -1,0 +1,3 @@
+A magical library in pixel art style, floating in the clouds. The scene is bright and whimsical, with books gently levitating and glowing with soft light. Each book has a unique symbol on its cover representing coding languages like Python, JavaScript, and HTML. A group of diverse girls in colorful outfits explore the library, with one girl pointing at a book that opens to reveal glowing code. The sky is a dreamy blue with sparkles and floating islands in the distance.
+
+![Teach Me](https://github.com/codess-aus/prompts/blob/1f09e8fa882ad22564e041375adaf6db24eb2f7e/assets/A%20magical%20library%20in%20pixel%20art%20style%2C%20floating%20in%20the%20clouds.%20The%20scene%20is%20bright%20and%20whimsical%2C%20wit.jpeg)
