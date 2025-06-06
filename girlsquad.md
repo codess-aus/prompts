@@ -1,0 +1,4 @@
+A superhero girl team made of AI coders saving the digital world. Each girl wears a unique neon-colored suit (pink, teal, purple, and electric blue) with glowing circuit patterns. They are flying through a futuristic digital city made of code streams, data towers, and holographic screens. Each girl has a different AI-powered gadget: one with a drone sidekick, one with a holographic keyboard, one with robotic gloves, and one riding a hoverboard. The sky is dark with glowing binary stars, and the city pulses with neon light. The scene is dynamic, empowering, and full of motion.
+
+![Girl squad](https://github.com/codess-aus/prompts/blob/9691603200fb92da792f8ce38e752f47a4b6a8d9/assets/A%20superhero%20girl%20team%20made%20of%20AI%20coders%20saving%20the%20digital%20world.%20Each%20girl%20wears%20a%20unique%20neon-colo.jpeg)
+
